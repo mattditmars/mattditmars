@@ -8,7 +8,7 @@
 
 ### What I'm Listening to 🎧
 
-[![Spotify](https://spotify-now-playing.mattditmars.vercel.app/api/spotify)](https://open.spotify.com/user/mdits)
+[![Spotify](https://spotify-now-playing-g7c33p3si.vercel.app/api/spotify)](https://open.spotify.com/user/mdits)
 
 ### Connect with me
 
