@@ -47,6 +47,7 @@
 
 ### Learning
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/python/python.png" />
+<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/react/react.png" />
 
 
 [instagram]: https://instagram.com/mattditmars
