@@ -1,7 +1,7 @@
 # Hi there, I'm Matt! 👋
 
 - 🏢 I'm currently working at **PUSH Design Solutions**
-- 🌱 I'm currently learning Python
+- 🌱 I'm currently learning Python, and React
 - 💬 Ask me about how to build your own gaming PC
 - 📧 Send me an [email](mailto:ditmarsmatt@gmail.com?subject=GitHub)
 - ⚡️ Fun fact: I love photography
